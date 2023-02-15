@@ -51,12 +51,12 @@ Thanks to [InfotelGroup](https://telegram.dog/InFoTelGroup) and [Erich Daniken](
 ## Installation
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TroJanzHEX/Auto-Filter-Bot)
+[![Deploy](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?template=https://github.com/Aadarshab/Filter-bot)
 
 ### Deploy in your vps
 ```sh
-git clone https://github.com/TroJanzHEX/Auto-Filter-Bot
-cd Auto-Filter-Bot
+git clone https://github.com/Aadarshab/Filter-bot
+cd Filter-Bot
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
 python3 main.py
